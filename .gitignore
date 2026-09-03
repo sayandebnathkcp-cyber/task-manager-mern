@@ -1,0 +1,19 @@
+# Dependency folders
+node_modules/
+
+# Environment variables & secrets (CRITICAL FOR SECURITY)
+.env
+.env.local
+.env.production
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and distribution folders
+dist/
+build/
+
+# Mac system files
+.DS_Store
